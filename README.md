@@ -1,6 +1,6 @@
 # Youtube-Video-Downloader
 
-1.install the youtube library available for python.
+1.Install the youtube library available for python.
 ```bash
 pip install youtube-dl
 ```
